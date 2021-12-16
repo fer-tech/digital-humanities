@@ -3,11 +3,11 @@ Repository for Digital Humanities project.
 
 ## Introduction
 
-This project intent to unite research, references and sources to compile one final application yet to be more defined.
+This project intent to reunite research, references and sources to compile one final application yet to be more defined.
 The premise is to create a method of teaching and learning humanities, grammar and programming languages through digital tools.
 The final product of the research will be a program to solve a specific challenge in the field.
 
-On curriculum: Teacher in digital humanities. Ciências humanas digitais. Implemented Jupyter notebook and other digital tools(like Voyant tool) for distant teaching and learning of programming languages, Universal Grammar and textual analysis.
+Important terms: Digital humanities. Ciências humanas digitais. Implementation of Jupyter notebook and other digital tools(like Voyant tool) for distant teaching and learning of programming languages, Universal Grammar and textual analysis.
 
 Here is the [link](https://docsite-wine.vercel.app/docs/projects/digital-humanities) for most references in this document
 
